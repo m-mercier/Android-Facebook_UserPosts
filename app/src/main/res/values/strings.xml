@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Workshop_Example</string>
+    <string name="app_show_name">Workshop Facebook Integration</string>
+    <string name="facebook_app_id">1781212192181949</string>
+    <string name="hello">Hello</string>
+    <string name="logout_button">Logout</string>
+    <string name="posts_button">Posts</string>
+    <string name="back_button">Back</string>
+</resources>
